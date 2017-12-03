@@ -1,0 +1,12 @@
+cd Desktop
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+touch readme.md
+git status
+git add .
+git commit -m "readme.md
+git remote add origin https://github.com/Evermark/GitHubRepoAssignment.git
+git push -u origin master
+GitHub Username
+GitHub Password
